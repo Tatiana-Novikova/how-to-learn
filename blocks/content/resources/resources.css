@@ -1,0 +1,6 @@
+.resources {
+  margin: 100px auto 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
