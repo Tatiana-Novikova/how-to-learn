@@ -1,0 +1,7 @@
+.half-opacity {
+  transition: opacity .20s ease;
+}
+
+.half-opacity:hover {
+  opacity: .5;
+}
